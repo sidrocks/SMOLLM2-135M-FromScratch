@@ -1,0 +1,4 @@
+torch
+transformers
+gradio==5.0.0
+tokenizers
