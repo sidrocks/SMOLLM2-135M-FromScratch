@@ -421,5 +421,8 @@ Open your browser to the local URL (usually `http://127.0.0.1:7860`).
 
 ## Demo
 
-Try out the trained model interactively here 👉 
+Try out the trained model interactively here 👉 https://huggingface.co/spaces/sidharthg/SMOLLM2-135M-App
+
+<img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/6b299423-6463-4e9f-810b-8dfcbeaf489b" />
+
 
